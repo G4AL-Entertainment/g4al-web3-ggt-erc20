@@ -10,8 +10,8 @@ Final Audits will be viewable in https://etherscan.io/ as soon as we receive the
 
 ## Smart contracts addresses
 
-### Ethereum Testnet URL
-[Ropsten] https://ropsten.etherscan.io/token/0x072Ef577e26C70cF9d90279773220ac3a7cb4e79
+### Ethereum Testnet URL (Ropsten)
+[Ropsten] https://ropsten.etherscan.io/address/0xdafc702D95fbD5060bd247dEF8176F6dEE63B752
 
 ### Ethereum Mainnet URL
 [Mainnet] TBD
@@ -61,4 +61,4 @@ Final Audits will be viewable in https://etherscan.io/ as soon as we receive the
     > **⚠️ Warning**
         > The test labeled as 'transfering GGT tokens' will fail unless the test address set in 1_initial_migration.js file is modified with a test account.
 - Verify the Source code in ropsten/mainnet environments
-    - ```truffle run verify GGT --network ropsten```
+    - ```truffle run verify GGToken --network ropsten```
