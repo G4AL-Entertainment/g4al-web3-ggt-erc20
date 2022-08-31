@@ -6,7 +6,7 @@ The $GGT contract will be uploaded on Ethereum. This GitHub repository acts as a
 The smart code for the $GGT is currently being Audited by Grant Thornton.
 
 Grant Thornton is a professional services firm providing audit, consultancy, technology and innovation, tax, legal and financial advisory services. It is one of the leading professional service organizations worldwide with 58,000 people in over 140 countries.
-Final Audits will be viewable in https://etherscan.io/ as soon as we receive the reports.
+Final Audit has been already released with a score of 9.9. It can be accessed now [here](https://drive.google.com/file/d/1Uxy_AiD-tbIuzwQhOQbulEZ7h6OHzBod/view?usp=sharing) and will be viewable in https://etherscan.io/.
 
 ## Smart contracts addresses
 
