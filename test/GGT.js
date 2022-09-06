@@ -1,13 +1,13 @@
-const GGT = artifacts.require("GGToken");
+const G4ALToken = artifacts.require("G4ALToken");
 
 // Test series for $GGT Token
-contract("GGT", async accounts => {
+contract("G4ALToken", async accounts => {
 
     // Test the initial supply
     it("initial supply", async () => {
 
         // wait til GGT is deplyoed, store the results in ggt
-        ggt = await GGT.deployed();
+        ggt = await G4ALToken.deployed();
         
         // Check total supply
         let supply = await ggt.totalSupply()
@@ -26,7 +26,7 @@ contract("GGT", async accounts => {
     it("minting", async() => {
 
         // wait til GGT is deplyoed, store the results in ggt
-        ggt = await GGT.deployed(); 
+        ggt = await G4ALToken.deployed(); 
 
         try {
             //Mint 100 ggtens
@@ -41,7 +41,7 @@ contract("GGT", async accounts => {
     it("burning", async() => {
         
         // wait til GGT is deplyoed, store the results in ggt
-        ggt = await GGT.deployed(); 
+        ggt = await G4ALToken.deployed(); 
 
         try{
             // Burn to address 0 
@@ -53,10 +53,10 @@ contract("GGT", async accounts => {
     })
 
     //Test GGT token transfers
-    it("transfering GGT tokens", async() => {
+    it("transfering G4AL tokens", async() => {
         
         // wait til GGT is deployed, store the results in ggt
-        ggt = await GGT.deployed(); 
+        ggt = await G4ALToken.deployed(); 
 
         // Grab initial balance for account 1
         let initial_balance = await ggt.balanceOf(accounts[1]);

@@ -1,7 +1,7 @@
 const Migrations = artifacts.require("Migrations");
-const GGT = artifacts.require("GGToken");
+const G4ALToken = artifacts.require("G4ALToken");
 
 module.exports = function (deployer) {
   deployer.deploy(Migrations);
-  deployer.deploy(GGT, '0xAc756274DF0800e5cC51A33a112E62e2b6716fF0');
+  deployer.deploy(G4ALToken, '0x4Bc0db5826764Eb4aE62F7Fd24DdeDdb1331c718');
 };
