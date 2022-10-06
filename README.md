@@ -9,13 +9,13 @@ Grant Thornton is a professional services firm that provides audit, tax, legal, 
 The final audit has already been released with a score of 9.9. It can be accessed now [here](https://drive.google.com/file/d/1Uxy_AiD-tbIuzwQhOQbulEZ7h6OHzBod/view?usp=sharing) and will be viewable on https://etherscan.io/ as soon as the token is minted on the mainnet.
 ## Smart contracts addresses
 
-### Ethereum Testnet
-[Ropsten]
-https://ropsten.etherscan.io/address/0xFE3c8ee53CeaFeC616Ced7e7DF8Ab04F9BCcC22F
-
 ### Ethereum Mainnet
 [Mainnet]
 TBD
+
+### Ethereum Testnet
+[Goerli]
+https://goerli.etherscan.io/address/0xdE8eCC061f2940D1Ccd32DbE5cEA64EC0E1Fc878
 
 <hr/>
 
