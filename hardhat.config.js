@@ -5,7 +5,7 @@ require('dotenv').config();
  * @type import('hardhat/config').HardhatUserConfig
  */
 module.exports = {
-  defaultNetwork: "goerli", // consider that for deploy you should use ganache instead, so specify here, or during command run with --network ganache flag
+  defaultNetwork: "hardhat", // consider that for deploy you should use ganache instead, so specify here, or during command run with --network ganache flag
 
   networks: {
     hardhat: {
