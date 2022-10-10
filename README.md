@@ -4,9 +4,9 @@ The $GGT Token Smart Contract will be deployed on the Ethereum Network.
 This GitHub repository provides a centralized location for interested parties to view the Smart Contract.
 
 ## Smart Contract Audit
-$GGT Smart Contract has currently being audited by Grant Thornton.
+$GGT Smart Contract has been previously audited by Grant Thornton.
 Grant Thornton is a professional services firm that provides audit, tax, legal, and financial advisory services. It is one of the leading professional service organizations worldwide, with 58,000 people in over 140 countries.
-The final audit has already been released with a score of 9.9. It can be accessed now [here](https://drive.google.com/file/d/1Uxy_AiD-tbIuzwQhOQbulEZ7h6OHzBod/view?usp=sharing) and will be viewable on https://etherscan.io/ as soon as the token is minted on the mainnet.
+The last audit was released with a score of 9.9. It can be accessed now [here](https://drive.google.com/file/d/1Uxy_AiD-tbIuzwQhOQbulEZ7h6OHzBod/view?usp=sharing).
 ## Smart contracts addresses
 
 ### Ethereum Mainnet
